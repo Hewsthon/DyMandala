@@ -1,2 +1,0 @@
-# DyMandala
-DyMandala
